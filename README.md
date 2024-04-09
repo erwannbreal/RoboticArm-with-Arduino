@@ -1,5 +1,6 @@
 # RoboticArm-with-Arduino
 Programming a robotic arm with Arduino and servo.
+https://www.youtube.com/watch?v=uer5jBOqY-g&ab_channel=ErwannBreal
 
 ### 3D print
 You can visit all 3D files in thingeverse : https://www.thingiverse.com/thing:3094794
