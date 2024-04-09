@@ -2,8 +2,8 @@
 Programming a robotic arm with Arduino and servo.
 
 ### 3D print
-You can visit all 3D files in thugeverse : https://www.thingiverse.com/thing:3094794
-or simply download in "3D-files" in my github.
+You can visit all 3D files in thingeverse : https://www.thingiverse.com/thing:3094794
+or simply download in "3D-files" on my github.
 
 ### The first program -> ClassicMouvement.ino
 This programme enables the arm to pick up the cube and place it in a cup.
