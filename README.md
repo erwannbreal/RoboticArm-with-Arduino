@@ -2,10 +2,10 @@
 Programming a robotic arm with Arduino and servo.
 
 ### A little video
-here : [Youtube](https://www.youtube.com/watch?v=uer5jBOqY-g&ab_channel=ErwannBreal)
+here : [Youtube](https://www.youtube.com/watch?v=uer5jBOqY-g&ab_channel=ErwannBreal)  
 
 ## 3D print
-You can visit all 3D files in thingeverse : https://www.thingiverse.com/thing:3094794
+You can visit all 3D files in thingeverse : https://www.thingiverse.com/thing:3094794 
 or simply download in "3D-files" on my github.
 
 ## The first program -> ClassicMouvement.ino
